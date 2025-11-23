@@ -31,7 +31,7 @@
 |---------------------|-------------------------|---------------|
 | Database            | SQlite                  | File-based, relationnal |
 | Data storage        | Supabase                | Open-source, easy to use and documented |
-| Mobile              | C# (.NET 9), MAUI       | Cross-platform, improve skills,  |
+| Mobile              | C# (.NET 10), MAUI      | Cross-platform, improve skills,  |
 | Authentication      | JWT / OAuth2            | Security standard |
 | CI/CD               | GitHub Actions          | Automate build and deploy|
 | App communications  | SignalR and more        | Integrated in the .Net environement|
