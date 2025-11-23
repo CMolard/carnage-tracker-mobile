@@ -40,29 +40,41 @@
         <mxCell id="dcxA59JY5LFpdC3YUKvu-6" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" value="Opponent&#39;s&lt;div&gt;mobile client&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="1120" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="dcxA59JY5LFpdC3YUKvu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="210" width="780" x="470" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="dcxA59JY5LFpdC3YUKvu-10" parent="1" style="text;strokeColor=default;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=2;" value="Game architecture" vertex="1">
-          <mxGeometry height="40" width="190" x="470" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="dcxA59JY5LFpdC3YUKvu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=light-dark(#0062ff, #ededed);" value="" vertex="1">
-          <mxGeometry height="810" width="290" x="720" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dcxA59JY5LFpdC3YUKvu-12" parent="1" style="text;strokeColor=light-dark(#0062ff, #ededed);fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=2;" value="Roster architecture" vertex="1">
-          <mxGeometry height="40" width="190" x="720" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QXoaLegw9xCVQCnYUf41-6" edge="1" parent="1" source="QXoaLegw9xCVQCnYUf41-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;" target="Fob56AUz6vzgeLFvf8KT-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QXoaLegw9xCVQCnYUf41-6" edge="1" parent="1" source="QXoaLegw9xCVQCnYUf41-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="607" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QXoaLegw9xCVQCnYUf41-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
-          <mxGeometry height="80" width="60" x="830" y="720" as="geometry" />
+          <mxGeometry height="80" width="60" x="830" y="717" as="geometry" />
         </mxCell>
         <mxCell id="QXoaLegw9xCVQCnYUf41-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Local rosters&lt;br&gt;database" vertex="1">
-          <mxGeometry height="60" width="90" x="910" y="730" as="geometry" />
+          <mxGeometry height="60" width="90" x="910" y="727" as="geometry" />
         </mxCell>
         <mxCell id="QXoaLegw9xCVQCnYUf41-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Sqlite" vertex="1">
-          <mxGeometry height="60" width="90" x="820" y="810" as="geometry" />
+          <mxGeometry height="60" width="90" x="820" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="NpwK4Y0deUtzyt5Y_lvb-1" edge="1" parent="1" source="NpwK4Y0deUtzyt5Y_lvb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpwK4Y0deUtzyt5Y_lvb-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="1140" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="NpwK4Y0deUtzyt5Y_lvb-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Sqlite" vertex="1">
+          <mxGeometry height="60" width="90" x="1130" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="NpwK4Y0deUtzyt5Y_lvb-4" edge="1" parent="1" source="NpwK4Y0deUtzyt5Y_lvb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpwK4Y0deUtzyt5Y_lvb-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="520" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="NpwK4Y0deUtzyt5Y_lvb-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Sqlite" vertex="1">
+          <mxGeometry height="60" width="90" x="510" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
